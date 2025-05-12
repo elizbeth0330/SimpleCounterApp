@@ -18,7 +18,8 @@ body {
 	align-items: center;
 	margin-top: 4rem;
 	cursor: pointer;
-	background-color: var(--black);
+	/* background-color: var(--black); */
+	background-color: #FF5733;
 }
 
 .container {
