@@ -14,4 +14,4 @@ function subtract() {
 }
 
 minus.addEventListener('click', subtract)
-plus.addEventListener('click, add')
+plus.addEventListener('click', add)
